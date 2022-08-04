@@ -1,6 +1,6 @@
 # Mint-and-Earn-NFT-Game
 
-### This project was completed for the assignment three presentation of NFT Talents
+### This project was completed for the assignment three presentation of NFT Talents Program at the Frankfurt School Blockchain Center
 
 `Please view the pdf powerpoint presentation located in the repo`
 
